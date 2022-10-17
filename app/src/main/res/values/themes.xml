@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pink_1</item>
+        <item name="colorPrimaryVariant">@color/pink_2</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/peach</item>
+        <item name="colorSecondaryVariant">@color/pink_3</item>
+        <item name="colorOnSecondary">@color/purple</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="popupMenuStyle">@style/MyPopupMenu</item>
+        <item name="android:itemTextAppearance">@style/itemTextStyle.AppTheme</item>
+
+    </style>
+
+
+    <!-- To change Popup Menu background and margin-->
+    <style name="MyPopupMenu" parent="@style/Widget.AppCompat.PopupMenu">
+        <item name="android:popupBackground">@android:color/black</item>
+        <item name="android:dropDownHorizontalOffset">5dp</item>
+        <item name="android:dropDownVerticalOffset">5dp</item>
+    </style>
+    <!-- To change Popup Menu Item's text color and text size-->
+    <style name="itemTextStyle.AppTheme" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>

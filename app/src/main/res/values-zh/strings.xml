@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">食谱大全</string>
+    <string name="ingredients_menu_item">食材</string>
+    <string name="recipes_menu_item">食谱</string>
+    <string name="gallery_menu_item">作品</string>
+
+</resources>

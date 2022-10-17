@@ -1,0 +1,104 @@
+<resources>
+
+    <string name="app_name">What\'s In Your Fridge</string>
+    <string name="ingredients_menu_item">Ingredients</string>
+    <string name="recipes_menu_item">Recipes</string>
+    <string name="gallery_menu_item">Gallery</string>
+    <string name="tap_me">Tap Me!</string>
+    <string name="remove">Remove</string>
+    <string name="no_recipes">No recipes available. Try adding more ingredients.</string>
+
+    <string name="garlic">Garlic</string>
+    <string name="whole_chicken">Whole Chicken</string>
+    <string name="tomato">Tomato</string>
+    <string name="ginger">Ginger</string>
+    <string name="spring_onion">Spring Onion</string>
+    <string name="onion">Onion</string>
+    <string name="eggs">Eggs</string>
+    <string name="butter">Butter</string>
+    <string name="celery">Celery</string>
+    <string name="corn">Corn</string>
+    <string name="bacon">Bacon</string>
+    <string name="milk">Milk</string>
+    <string name="salmon">Salmon</string>
+    <string name="sausage">Sausage</string>
+    <string name="carrot">Carrot</string>
+    <string name="chicken_breast">Chicken Breast</string>
+    <string name="chicken_wing">Chicken Wing</string>
+    <string name="shrimp">Shrim</string>
+    <string name="pork_ribs">Pork Ribs</string>
+    <string name="ground_beef">Ground Beef</string>
+    <string name="ground_pork">Ground Pork</string>
+    <string name="lamb_rack">Lamb Rack</string>
+
+    "garlic","whole chicken", "tomato","ginger","spring onion",
+    "onion","eggs","butter","celery","corn","bacon","milk","salmon","sausage","carrot",
+    "chicken breast","chicken wing","chicken drumstick","shrimp","pork ribs","ground beef"
+    ,"ground pork","lamb rack","mushroom","pineapple","whipping cream","mozzarella"
+    ,"cheddar","parmesan","lemon","lime","lettuce","thyme","rosemary","parsley","basil"
+    ,"brussels sprout","broccoli","cauliflower","eggplant","cucumber","zucchini"
+    ,"spinach","strawberry","orange","asparagus","green cabbage","red chilli","red pepper"
+    ,"green pepper","pork belly","pork loin","beef tenderloin","steak","daikon radish"
+
+
+    <string name="pastaInstructions">
+        <ul>1) Put meat into a pan</ul>\n
+        <ul>2) Break apart meat</ul>\n
+        <ul>3) Cook on high for 10 - 15 minutes</ul>\n
+        <ul>4) Add marinara sauce into cooked meat</ul>\n
+        <ul>5) Boil water in different pot</ul>\n
+        <ul>6) Add pasta noodles and handful of salt into boiling water</ul>\n
+        <ul>7) Drain water once noodles are ready</ul>\n
+        <ul>8) Combine sauce and noodles</ul>\n
+        <ul>9) Enjoy!</ul>\n
+    </string>
+
+    <string name="pastaIngredients">
+        <li>Ground Beef</li>\n
+        <li>Marinara Sauce</li>\n
+        <li>Water</li>\n
+        <li>Pasta Noodles</li>\n
+    </string>
+
+    <string name="salmonInstructions">
+        <ul>1) Add olive into fry pan</ul>\n
+        <ul>2) Put pan onto stove with medium heat for four minutes</ul>\n
+        <ul>3) Add the prepared salmon into the pan</ul>\n
+        <ul>4) Add pinch of salt and pepper on fish</ul>\n
+        <ul>5) Let salmon cook for three minutes</ul>\n
+        <ul>6) Flip salmon to cook other side for three minutes</ul>\n
+        <ul>7) Remove salmon from pan</ul>\n
+        <ul>8) Squeeze fresh lemon onto salmon</ul>\n
+        <ul>9) Enjoy!</ul>\n
+    </string>
+
+    <string name="salmonIngredients">
+        <li>Salmon</li>\n
+        <li>Salt</li>\n
+        <li>Pepper</li>\n
+        <li>Lemon</li>\n
+        <li>Olive Oil</li>\n
+    </string>
+
+    <string name="fruitSaladInstructions">
+        <ul>1) Open and strain fruit cocktail juice into mixing bowl</ul>\n
+        <ul>2) Cube Cantaloupe, Pineapple, and Honeydew</ul>\n
+        <ul>3) Slice Strawberries</ul>\n
+        <ul>4) Add fruits into mixing bowl</ul>\n
+        <ul>5) Add tub of cool whip into mixing bowl</ul>\n
+        <ul>6) Mix contents</ul>\n
+        <ul>7) Enjoy!</ul>\n
+    </string>
+
+    <string name="fruitSaladIngredients">
+        <li>Honeydew</li>\n
+        <li>Pineapple</li>\n
+        <li>Cantaloupe</li>\n
+        <li>Strawberry</li>\n
+        <li>Whipping Cream</li>\n
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

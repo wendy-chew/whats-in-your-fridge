@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string name="app_name">Que Tiene En El Frigo</string>
+        <string name="ingredients_menu_item">Ingredientes</string>
+        <string name="recipes_menu_item">Recetas</string>
+        <string name="gallery_menu_item">Galeria</string>
+        <string name="tap_me">¡Púlsame!</string>
+        <string name="remove">Eliminar</string>
+        <string name="no_recipes">No hay recetas disponibles. Pruebe añadiendo mas ingredientes</string>
+
+</resources>
